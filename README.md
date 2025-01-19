@@ -1,3 +1,4 @@
+![logo](https://github.com/Siddhu2708/Siddhu2708/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Siddharth Gaykhe</h1>
 <h3 align="center">Passionate Machine Learning enthusiast from India</h3>
 
