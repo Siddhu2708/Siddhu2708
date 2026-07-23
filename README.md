@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine learning, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://siddharth-gaykhe-portfolio1.netlify.app](https://siddharth-gaykhe-portfolio1.netlify.app)
+- 👨‍💻 All of my projects are available at (https://siddharthlabs.vercel.app/)
 
 - 💬 Ask me about **Python and Web Development**
 
